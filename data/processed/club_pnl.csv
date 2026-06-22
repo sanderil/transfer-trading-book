@@ -1,0 +1,244 @@
+club_name,league_name,country,total_spent_m,total_received_m,net_profit_m,n_buys,n_sells
+1. FC Köln,1 Bundesliga,Germany,123.8,93.9,-29.9,63,67
+1.FC Kaiserslautern,1 Bundesliga,Germany,10.3,4.5,-5.8,18,15
+1.FC Nuremberg,1 Bundesliga,Germany,17.8,22.0,4.2,38,35
+1.FC Union Berlin,1 Bundesliga,Germany,55.4,56.7,1.3,45,40
+1.FSV Mainz 05,1 Bundesliga,Germany,184.4,265.4,80.9,100,91
+AC Ajaccio,Ligue 1,France,0.5,1.6,1.1,31,28
+AC Cesena,Serie A,Italy,24.2,26.4,2.3,30,30
+AC Milan,Serie A,Italy,966.7,442.5,-524.3,115,160
+AC Monza,Serie A,Italy,18.0,0.0,-18.0,9,2
+AC Siena,Serie A,Italy,22.7,29.4,6.7,22,21
+ACF Fiorentina,Serie A,Italy,502.4,521.8,19.5,120,143
+ADO Den Haag,Eredivisie,Netherlands,0.9,13.1,12.2,67,99
+AFC Bournemouth,Premier League,England,350.2,79.0,-271.2,41,30
+AJ Auxerre,Ligue 1,France,11.0,6.4,-4.6,18,19
+AS Bari,Serie A,Italy,8.7,15.5,6.8,4,4
+AS Livorno,Serie A,Italy,2.1,1.8,-0.3,6,7
+AS Monaco,Ligue 1,France,958.8,1128.7,169.9,95,112
+AS Nancy-Lorraine,Ligue 1,France,11.9,34.4,22.5,21,27
+AS Roma,Serie A,Italy,962.8,896.8,-66.0,134,182
+AS Saint-Étienne,Ligue 1,France,123.5,228.5,105.0,66,82
+AZ Alkmaar,Eredivisie,Netherlands,74.5,260.8,186.3,66,102
+Académica Coimbra,Liga Nos,Portugal,0.1,4.1,3.9,39,56
+Ajax Amsterdam,Eredivisie,Netherlands,419.0,907.1,488.1,70,116
+Amiens SC,Ligue 1,France,31.3,21.4,-9.8,24,22
+Angers SCO,Ligue 1,France,51.5,157.1,105.6,67,63
+Arminia Bielefeld,1 Bundesliga,Germany,9.8,0.4,-9.4,17,18
+Arsenal FC,Premier League,England,1277.5,487.8,-789.7,71,93
+Aston Villa,Premier League,England,674.0,331.7,-342.3,72,75
+Atalanta BC,Serie A,Italy,469.2,514.8,45.6,100,135
+Athletic Bilbao,Primera Division,Spain,116.0,221.0,105.0,27,58
+Athlétic Club Arlésien,Ligue 1,France,0.0,0.5,0.5,14,12
+Atlético de Madrid,Primera Division,Spain,1151.4,1023.2,-128.2,90,92
+Bayer 04 Leverkusen,1 Bundesliga,Germany,524.6,484.6,-40.0,79,94
+Bayern Munich,1 Bundesliga,Germany,925.3,465.4,-459.9,59,69
+Belenenses SAD,Liga Nos,Portugal,0.1,5.5,5.5,22,25
+Benevento Calcio,Serie A,Italy,28.4,4.7,-23.7,17,20
+Birmingham City,Premier League,England,23.4,0.0,-23.4,6,5
+Blackburn Rovers,Premier League,England,25.0,40.6,15.6,12,21
+Blackpool FC,Premier League,England,5.4,0.7,-4.7,11,5
+Boavista FC,Liga Nos,Portugal,17.5,32.2,14.7,74,79
+Bologna FC 1909,Serie A,Italy,283.5,230.8,-52.8,124,103
+Bolton Wanderers,Premier League,England,20.0,17.7,-2.3,13,13
+Borussia Dortmund,1 Bundesliga,Germany,876.2,952.3,76.1,75,91
+Borussia Mönchengladbach,1 Bundesliga,Germany,301.0,236.0,-65.0,63,68
+Brentford FC,Premier League,England,86.2,3.6,-82.6,8,6
+Brescia Calcio,Serie A,Italy,26.9,7.1,-19.8,17,8
+Brighton & Hove Albion,Premier League,England,383.3,250.9,-132.4,56,50
+Burnley FC,Premier League,England,201.3,113.3,-88.1,37,47
+CA Osasuna,Primera Division,Spain,43.3,35.5,-7.8,51,54
+CD Feirense,Liga Nos,Portugal,0.2,8.3,8.1,38,48
+CD Leganés,Primera Division,Spain,43.2,65.0,21.8,36,35
+CD Nacional,Liga Nos,Portugal,6.8,22.5,15.7,61,74
+CD Santa Clara,Liga Nos,Portugal,3.4,26.8,23.4,50,42
+CD Tondela,Liga Nos,Portugal,0.3,4.3,4.0,45,69
+CF Os Belenenses,Liga Nos,Portugal,1.3,7.3,6.0,43,42
+CF União Madeira,Liga Nos,Portugal,0.0,0.0,0.0,11,6
+CS Marítimo,Liga Nos,Portugal,0.9,29.5,28.6,77,105
+Cagliari Calcio,Serie A,Italy,185.9,140.0,-45.9,78,90
+Cardiff City,Premier League,England,95.2,3.7,-91.5,18,11
+Carpi FC 1909,Serie A,Italy,0.0,0.3,0.3,9,10
+Casa Pia AC,Liga Nos,Portugal,0.0,0.2,0.2,11,7
+Catania SSD,Serie A,Italy,24.7,39.2,14.4,31,32
+Celta de Vigo,Primera Division,Spain,146.9,160.7,13.7,54,61
+Chelsea FC,Premier League,England,2282.2,1069.7,-1212.5,93,108
+Chievo Verona,Serie A,Italy,67.8,87.9,20.1,100,119
+Clermont Foot 63,Ligue 1,France,2.3,21.4,19.1,12,17
+Crystal Palace,Premier League,England,407.8,141.9,-265.9,73,57
+Cádiz CF,Primera Division,Spain,25.0,1.0,-24.0,29,19
+Córdoba CF,Primera Division,Spain,0.3,0.0,-0.3,6,6
+De Graafschap Doetinchem,Eredivisie,Netherlands,0.4,0.3,-0.1,29,30
+Delfino Pescara 1936,Serie A,Italy,30.0,35.3,5.3,31,18
+Deportivo Alavés,Primera Division,Spain,40.8,46.9,6.1,42,42
+Deportivo de La Coruña,Primera Division,Spain,24.7,41.9,17.2,35,37
+Desportivo Aves (- 2020),Liga Nos,Portugal,0.0,2.2,2.2,31,46
+Dijon FCO,Ligue 1,France,49.5,61.8,12.3,55,41
+EA Guingamp,Ligue 1,France,10.4,23.9,13.5,32,37
+ESTAC Troyes,Ligue 1,France,41.7,21.8,-20.0,32,31
+Eintracht Braunschweig,1 Bundesliga,Germany,1.6,0.0,-1.6,7,2
+Eintracht Frankfurt,1 Bundesliga,Germany,213.4,231.1,17.7,101,114
+Elche CF,Primera Division,Spain,29.0,20.9,-8.1,35,38
+Empoli FC,Serie A,Italy,26.5,48.0,21.5,30,28
+Everton FC,Premier League,England,843.3,556.6,-286.8,78,81
+Excelsior Rotterdam,Eredivisie,Netherlands,1.4,5.1,3.7,60,68
+FC Arouca,Liga Nos,Portugal,0.3,2.8,2.5,48,40
+FC Augsburg,1 Bundesliga,Germany,148.7,99.7,-49.0,89,79
+FC Barcelona,Primera Division,Spain,1760.5,1011.2,-749.3,62,93
+FC Crotone,Serie A,Italy,12.8,7.8,-5.0,28,26
+FC Dordrecht,Eredivisie,Netherlands,0.0,0.0,0.0,4,13
+FC Emmen,Eredivisie,Netherlands,0.9,1.6,0.7,44,40
+FC Empoli,Serie A,Italy,22.1,53.9,31.8,13,17
+FC Famalicão,Liga Nos,Portugal,11.7,22.0,10.3,29,30
+FC Girondins Bordeaux,Ligue 1,France,128.8,245.3,116.5,55,88
+FC Groningen,Eredivisie,Netherlands,30.7,94.9,64.2,79,110
+FC Ingolstadt 04,1 Bundesliga,Germany,14.2,4.3,-9.9,15,7
+FC Internazionale,Serie A,Italy,201.2,190.7,-10.5,36,43
+FC Lorient,Ligue 1,France,123.3,168.9,45.6,70,74
+FC Metz,Ligue 1,France,38.8,65.4,26.6,41,36
+FC Nantes,Ligue 1,France,79.4,107.5,28.1,46,61
+FC Paços de Ferreira,Liga Nos,Portugal,3.0,23.5,20.5,71,104
+FC Penafiel,Liga Nos,Portugal,0.0,0.0,0.0,9,13
+FC Porto,Liga Nos,Portugal,488.9,924.2,435.3,103,132
+FC Schalke 04,1 Bundesliga,Germany,300.6,267.1,-33.5,81,98
+FC Sochaux-Montbéliard,Ligue 1,France,19.3,33.4,14.1,17,23
+FC St. Pauli,1 Bundesliga,Germany,0.0,0.0,0.0,1,1
+FC Toulouse,Ligue 1,France,95.9,166.3,70.4,53,69
+FC Utrecht,Eredivisie,Netherlands,19.9,88.3,68.3,61,86
+FC Vizela,Liga Nos,Portugal,0.0,1.0,1.0,12,20
+FC Volendam,Eredivisie,Netherlands,0.0,0.0,0.0,3,10
+FC Évian Thonon Gaillard,Ligue 1,France,8.3,11.5,3.2,27,32
+Feyenoord Rotterdam,Eredivisie,Netherlands,111.6,212.7,101.0,75,97
+Fortuna Düsseldorf,1 Bundesliga,Germany,17.3,12.2,-5.1,35,19
+Fortuna Sittard,Eredivisie,Netherlands,3.6,5.0,1.4,41,44
+Frosinone Calcio,Serie A,Italy,9.2,1.0,-8.2,14,11
+Fulham FC,Premier League,England,281.2,81.1,-200.2,53,48
+GD Chaves,Liga Nos,Portugal,2.4,15.1,12.7,37,44
+GD Estoril Praia,Liga Nos,Portugal,2.0,42.3,40.3,74,85
+GFC Ajaccio,Ligue 1,France,0.0,0.0,0.0,6,9
+Genoa CFC,Serie A,Italy,439.3,617.7,178.4,178,218
+Getafe CF,Primera Division,Spain,134.6,132.9,-1.7,81,85
+Gil Vicente FC,Liga Nos,Portugal,2.2,12.6,10.4,69,81
+Girona FC,Primera Division,Spain,27.9,3.3,-24.6,18,16
+Go Ahead Eagles,Eredivisie,Netherlands,0.0,3.2,3.2,35,43
+Granada CF,Primera Division,Spain,100.3,79.3,-21.0,96,74
+Hamburger SV,1 Bundesliga,Germany,173.7,104.8,-68.8,56,69
+Hannover 96,1 Bundesliga,Germany,85.9,38.7,-47.2,62,60
+Hellas Verona,Serie A,Italy,148.5,157.1,8.6,91,85
+Heracles Almelo,Eredivisie,Netherlands,4.1,39.2,35.0,82,102
+Hertha BSC,1 Bundesliga,Germany,230.6,167.6,-62.9,70,76
+Huddersfield Town,Premier League,England,105.0,18.0,-87.0,20,11
+Hull City,Premier League,England,116.5,48.5,-68.0,29,23
+Hércules CF,Primera Division,Spain,5.8,0.4,-5.4,7,9
+Inter Milan,Serie A,Italy,837.2,646.3,-190.9,70,127
+Juventus FC,Serie A,Italy,1662.1,1085.4,-576.7,137,181
+LOSC Lille,Ligue 1,France,360.1,754.3,394.2,92,112
+Leeds United,Premier League,England,315.8,108.2,-207.6,21,14
+Leicester City,Premier League,England,636.6,443.6,-193.0,55,52
+Levante UD,Primera Division,Spain,61.0,103.3,42.4,91,80
+Liverpool FC,Premier League,England,1303.0,809.9,-493.1,78,100
+Manchester City,Premier League,England,1990.8,786.5,-1204.2,88,113
+Manchester United,Premier League,England,1739.7,434.4,-1305.3,57,78
+Middlesbrough FC,Premier League,England,48.0,13.5,-34.5,12,8
+Montpellier HSC,Ligue 1,France,90.2,208.6,118.4,68,82
+Moreirense FC,Liga Nos,Portugal,2.0,22.1,20.1,58,86
+Málaga CF,Primera Division,Spain,119.7,177.8,58.0,67,65
+NAC Breda,Eredivisie,Netherlands,0.3,7.6,7.3,44,52
+NEC Nijmegen,Eredivisie,Netherlands,3.5,14.8,11.3,57,69
+Naval 1º de Maio,Liga Nos,Portugal,0.0,1.5,1.5,6,7
+Newcastle United,Premier League,England,754.3,229.3,-525.1,74,73
+Norwich City,Premier League,England,167.4,67.8,-99.6,45,51
+Nottingham Forest,Premier League,England,179.3,7.0,-172.3,21,7
+Novara Calcio 1908,Serie A,Italy,4.7,1.7,-3.0,6,6
+Nîmes Olympique,Ligue 1,France,24.3,23.0,-1.3,22,17
+OGC Nice,Ligue 1,France,306.1,269.8,-36.3,82,94
+Olympique Lyon,Ligue 1,France,430.4,727.8,297.5,68,106
+Olympique Marseille,Ligue 1,France,515.9,342.8,-173.1,85,96
+PEC Zwolle,Eredivisie,Netherlands,5.3,21.7,16.4,65,81
+PSV Eindhoven,Eredivisie,Netherlands,205.8,470.5,264.7,70,90
+Paris Saint-Germain,Ligue 1,France,1585.6,502.6,-1083.0,72,89
+Parma Calcio 1913,Serie A,Italy,137.9,21.5,-116.4,48,31
+Parma FC,Serie A,Italy,96.9,119.2,22.3,144,103
+Portimonense SC,Liga Nos,Portugal,6.0,79.0,73.0,42,50
+Queens Park Rangers,Premier League,England,116.9,30.3,-86.5,35,39
+RB Leipzig,1 Bundesliga,Germany,524.8,375.9,-148.9,42,45
+RC Lens,Ligue 1,France,78.0,81.4,3.5,23,29
+RC Strasbourg Alsace,Ligue 1,France,55.6,64.9,9.3,32,37
+RCD Espanyol Barcelona,Primera Division,Spain,170.2,201.9,31.7,76,94
+RCD Mallorca,Primera Division,Spain,34.3,35.5,1.2,38,50
+RKC Waalwijk,Eredivisie,Netherlands,0.3,4.9,4.6,42,50
+Racing Santander,Primera Division,Spain,0.0,12.1,12.1,6,14
+Rayo Vallecano,Primera Division,Spain,19.1,26.9,7.7,66,52
+Reading FC,Premier League,England,10.8,0.9,-9.9,11,6
+Real Betis Balompié,Primera Division,Spain,240.4,224.9,-15.5,77,85
+Real Madrid,Primera Division,Spain,1267.2,965.1,-302.0,51,72
+Real Sociedad,Primera Division,Spain,209.2,288.3,79.1,40,56
+Real Valladolid CF,Primera Division,Spain,27.7,22.8,-4.9,40,37
+Real Zaragoza,Primera Division,Spain,16.6,19.2,2.6,26,21
+Rio Ave FC,Liga Nos,Portugal,9.6,51.6,41.9,75,79
+Roda JC Kerkrade,Eredivisie,Netherlands,1.7,5.3,3.5,56,61
+SC Bastia,Ligue 1,France,1.4,20.4,19.0,32,34
+SC Beira-Mar,Liga Nos,Portugal,0.0,2.9,2.9,20,22
+SC Braga,Liga Nos,Portugal,81.2,310.7,229.5,113,119
+SC Cambuur Leeuwarden,Eredivisie,Netherlands,0.0,0.0,0.0,2,0
+SC Cambuur-Leeuwarden,Eredivisie,Netherlands,0.7,1.2,0.5,35,38
+SC Farense,Liga Nos,Portugal,0.0,0.0,0.0,7,6
+SC Freiburg,1 Bundesliga,Germany,135.7,182.6,46.9,69,93
+SC Heerenveen,Eredivisie,Netherlands,39.4,128.1,88.7,82,127
+SC Olhanense,Liga Nos,Portugal,0.4,2.4,2.0,32,30
+SC Paderborn 07,1 Bundesliga,Germany,2.3,5.8,3.5,18,17
+SD Eibar,Primera Division,Spain,49.4,50.4,0.9,65,51
+SD Huesca,Primera Division,Spain,12.8,0.0,-12.8,15,14
+SL Benfica,Liga Nos,Portugal,583.1,1360.3,777.1,126,154
+SM Caen,Ligue 1,France,32.5,54.5,22.0,50,46
+SPAL,Serie A,Italy,44.6,37.6,-7.0,20,18
+SPAL 2013,Serie A,Italy,6.1,0.5,-5.6,13,4
+SS Lazio,Serie A,Italy,362.8,296.1,-66.8,97,121
+SSC Napoli,Serie A,Italy,879.9,637.9,-241.9,100,127
+SV Darmstadt 98,1 Bundesliga,Germany,4.7,5.2,0.5,21,20
+SV Werder Bremen,1 Bundesliga,Germany,158.3,164.0,5.7,84,96
+Sevilla FC,Primera Division,Spain,695.4,788.0,92.6,108,122
+Sheffield United,Premier League,England,133.2,0.3,-132.8,16,12
+Southampton FC,Premier League,England,702.0,499.5,-202.5,64,75
+SpVgg Greuther Fürth,1 Bundesliga,Germany,4.7,5.8,1.1,23,18
+Sparta Rotterdam,Eredivisie,Netherlands,1.4,21.9,20.5,38,51
+Spezia Calcio,Serie A,Italy,40.9,40.0,-0.8,32,29
+Sporting CP,Liga Nos,Portugal,326.2,617.6,291.4,125,140
+Sporting Gijón,Primera Division,Spain,2.8,4.5,1.7,18,25
+Stade Brestois 29,Ligue 1,France,47.2,52.3,5.1,52,54
+Stade Reims,Ligue 1,France,85.4,105.2,19.8,52,56
+Stade Rennais FC,Ligue 1,France,439.1,453.2,14.1,92,119
+Stoke City,Premier League,England,217.2,73.8,-143.3,56,45
+Sunderland AFC,Premier League,England,253.3,138.4,-114.8,62,71
+Swansea City,Premier League,England,244.5,240.8,-3.6,55,51
+TSG 1899 Hoffenheim,1 Bundesliga,Germany,253.9,425.7,171.8,93,99
+Torino FC,Serie A,Italy,298.9,309.6,10.7,85,112
+Tottenham Hotspur,Premier League,England,1045.1,686.8,-358.4,67,88
+Twente Enschede FC,Eredivisie,Netherlands,57.3,145.2,87.9,70,81
+UC Sampdoria,Serie A,Italy,354.0,442.9,88.9,123,156
+UD Almería,Primera Division,Spain,40.3,31.2,-9.1,29,31
+UD Las Palmas,Primera Division,Spain,9.2,23.5,14.3,21,23
+US Cremonese,Serie A,Italy,25.2,0.0,-25.2,9,2
+US Lecce,Serie A,Italy,15.3,11.5,-3.7,32,39
+US Palermo,Serie A,Italy,141.2,204.9,63.6,75,84
+US Salernitana 1919,Serie A,Italy,54.1,21.0,-33.1,31,18
+US Sassuolo,Serie A,Italy,375.1,319.9,-55.2,85,90
+Udinese Calcio,Serie A,Italy,330.7,585.8,255.0,135,147
+União de Leiria,Liga Nos,Portugal,0.0,3.7,3.7,15,20
+VVV-Venlo,Eredivisie,Netherlands,1.5,11.9,10.4,38,53
+Valencia CF,Primera Division,Spain,612.1,698.4,86.3,80,103
+Valenciennes FC,Ligue 1,France,10.7,22.7,12.0,17,25
+Venezia FC,Serie A,Italy,20.4,0.2,-20.2,11,5
+VfB Stuttgart,1 Bundesliga,Germany,174.3,191.5,17.2,78,81
+VfL Bochum,1 Bundesliga,Germany,0.9,15.4,14.5,14,15
+VfL Wolfsburg,1 Bundesliga,Germany,629.0,412.3,-216.7,110,100
+Villarreal CF,Primera Division,Spain,449.3,430.4,-18.8,75,95
+Vitesse Arnhem,Eredivisie,Netherlands,27.2,79.0,51.8,58,79
+Vitória Guimarães SC,Liga Nos,Portugal,25.4,118.6,93.2,83,114
+Vitória Setúbal FC,Liga Nos,Portugal,1.1,11.0,9.9,92,102
+Watford FC,Premier League,England,343.0,171.8,-171.2,68,46
+West Bromwich Albion,Premier League,England,235.7,78.1,-157.6,60,60
+West Ham United,Premier League,England,797.5,282.5,-514.9,87,80
+Wigan Athletic,Premier League,England,34.2,26.5,-7.7,20,19
+Willem II Tilburg,Eredivisie,Netherlands,4.1,12.4,8.3,71,78
+Wolverhampton Wanderers,Premier League,England,548.7,218.4,-330.3,54,49
