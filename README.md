@@ -30,7 +30,7 @@ The league that dominates this narrative is the English Premier League (EPL), wh
 
 ## Dashboard
 
-
+![Dashboard](dashboard.png)
 
 The dashboard has three linked views (click any club to filter the others):
 - **Club Trading P&L** — net transfer profit, top 15 traders vs. top 15 spenders.
